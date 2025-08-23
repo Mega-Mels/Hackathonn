@@ -1,0 +1,4 @@
+console.log("Using account:", deployer.address);
+const [deployer] = await ethers.getSigners();
+consg("Contract deployed at:", contract.address);
+const [deployer] = await ethers.getSigners();
