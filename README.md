@@ -34,3 +34,11 @@ Make sure you have installed:
 - **Expo CLI**  
 ```bash
 npm install -g expo-cli
+
+git clone https://github.com/Mega-Mels/Hackathonn.git
+cd Hackathonn
+npm install
+navigate to backend
+npx run dev
+navigate to root app folder
+npx expo start
